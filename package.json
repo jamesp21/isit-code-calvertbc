@@ -1,5 +1,5 @@
 {
-  "name": "isit-code",
+  "name": "isit-code-james",
   "version": "1.0.0",
   "description": "Code samples and utilities.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/charliecalvert/JsObjects.git"
+    "url": "git@github.com/jamesp21/isit-code-james.git"
   },
   "keywords": [
     "Elvenware",
     "npm",
     "test"
   ],
-  "author": "Charlie Calvert",
+  "author": "James Porter",
   "license": "MIT",
   "dependencies": {
     "debug": "^3.1.0",
